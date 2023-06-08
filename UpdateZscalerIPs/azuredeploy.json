@@ -197,7 +197,7 @@
                         "resourceURI": "[variables('resourceURI')]",
                         "ZscalerTenant": "[parameters('ZscalerTenant')]",
                         "watchlistAlias": "[parameters('watchlistAlias')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/gmccauley/Azure-Functions/raw/main/UpdateZscalerIPs/AzureFunctionUpdateZscalerIPs/UpdateZscalerIPs.zip"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://raw.githubusercontent.com/gmccauley/Azure-Functions/main/UpdateZscalerIPs/AzureFunctionUpdateZscalerIPs/UpdateZscalerIPs.zip"
                     }
                 }
             ]
